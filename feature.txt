@@ -1,0 +1,1 @@
+This project shows the deatils about the job scheduling algorithm used bu OS
